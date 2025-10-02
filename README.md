@@ -23,10 +23,11 @@ A modern and responsive website for **Cyberrites**, a KSA-based cybersecurity co
 
 ---
 
+
 ## ⚙️ Tech Stack  
 - **HTML5**  
 - **CSS3**  
 - **JavaScript**  
-- **Bootstrap / Tailwind (if used)**  
+- **Bootstrap / Tailwind**  
 
 ---
